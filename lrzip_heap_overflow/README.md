@@ -1,6 +1,8 @@
 lrzip v0.651(latest)
 
-execution:./lrzip -t filename
+poc:https://github.com/huanglei3/lrzip_poc/blob/main/lrzip_heap_overflow/overflow
+
+execution:./lrzip -t overflow
 
 result:  reference : https://github.com/huanglei3/lrzip_poc/blob/main/lrzip_heap_overflow/overflow.png
 
