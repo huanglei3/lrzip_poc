@@ -2,7 +2,7 @@ lrzip v0.651(latest)
 
 execution:./lrzip -t filename
 
-result:
+result:  reference : https://github.com/huanglei3/lrzip_poc/blob/main/lrzip_heap_overflow/overflow.png
 
 
 Decompressing...
@@ -61,3 +61,5 @@ Shadow byte legend (one shadow byte represents 8 application bytes):
   Right alloca redzone:    cb
   Shadow gap:              cc
 ==3510675==ABORTING
+
+
